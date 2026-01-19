@@ -203,12 +203,6 @@ Planned / Possible extensions:
 
 ---
 
-## 🧠 How to Explain This Project (Short Version)
-
-> “This is an LLM-assisted security log analyzer. It integrates a large language model to summarize and explain system and security logs, outputs structured JSON for SOC pipelines, and degrades gracefully when the LLM service is unavailable.”
-
----
-
 ## 📜 License
 
 This project is intended as an internal prototype / educational PoC. Licensing can be added as needed.
